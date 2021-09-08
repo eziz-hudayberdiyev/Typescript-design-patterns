@@ -1,0 +1,26 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Typescript-Design-Patterns",
+  "main": "dist",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node .",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eziz-hudayberdiyev/Typescript-design-patterns.git"
+  },
+  "author": "eziz-hudayberdiyev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eziz-hudayberdiyev/Typescript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/eziz-hudayberdiyev/Typescript-design-patterns#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.7.13",
+    "typescript": "^4.4.2"
+  }
+}
